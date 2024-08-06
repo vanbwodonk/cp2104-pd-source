@@ -1181,7 +1181,7 @@
 		(path "/3c6388a1-f2c1-4b38-8bea-541bab680809")
 		(sheetname "Root")
 		(sheetfile "cp2104-pd-source-v01.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -4.67 -0.1)
 			(end -4.67 -1.8)
@@ -5753,7 +5753,7 @@
 		(path "/dcf150ad-0901-405f-8bd6-d6c958ec8dc6")
 		(sheetname "Root")
 		(sheetfile "cp2104-pd-source-v01.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -7.095 -5.9)
 			(end -5.525 -5.9)
@@ -7096,7 +7096,7 @@
 		(path "/ab62347c-3c2a-497c-a36d-5e76ac50f8fd")
 		(sheetname "Root")
 		(sheetfile "cp2104-pd-source-v01.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -7.095 5.9)
 			(end -7.095 5.08)
