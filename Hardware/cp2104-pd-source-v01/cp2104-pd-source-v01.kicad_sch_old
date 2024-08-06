@@ -4967,15 +4967,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C23179"
-			(at 176.53 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "7fd977b8-fd58-4aa0-91a2-33675e9eab78")
 		)
@@ -5054,15 +5045,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C59461"
-			(at 241.3 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "70dc02d2-6fdd-46dc-8215-f0a97b9608e5")
 		)
@@ -5133,15 +5115,6 @@
 		)
 		(property "LCSC Part" "C2919628"
 			(at 74.93 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2919628"
-			(at 74.93 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5447,15 +5420,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C59461"
-			(at 207.01 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "6c7d2e0b-9862-4814-bf8b-f9b89f9782ee")
 		)
@@ -5664,15 +5628,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25804"
-			(at 198.374 130.048 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "2dd40787-a60f-4334-976d-d95dfc6e9ec5")
 		)
@@ -5751,15 +5706,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C15849"
-			(at 161.544 40.894 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "9c937194-3b60-45de-b074-f3ed10ad1652")
 		)
@@ -5829,15 +5775,6 @@
 		)
 		(property "JLCPCB Part #" "C19666 "
 			(at 135.89 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C19666"
-			(at 135.89 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6048,15 +5985,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C20917"
-			(at 180.34 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "784b3c4e-a4f5-4083-bc3f-db0e6ff0ab0d")
 		)
@@ -6138,15 +6066,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C23179"
-			(at 176.53 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "efa3a343-d979-4bdc-9fea-250305ec27a0")
 		)
@@ -6218,15 +6137,6 @@
 		)
 		(property "JLCPCB Part #" "C15849"
 			(at 162.56 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C59461"
-			(at 157.48 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6443,15 +6353,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C22775"
-			(at 52.07 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "5357b6ed-2db4-45bf-9bc2-964bb8aaeba2")
 		)
@@ -6512,15 +6413,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 101.6 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C1588"
-			(at 104.394 147.574 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6599,15 +6491,6 @@
 		)
 		(property "JLCPCB Part #" "C23179"
 			(at 229.87 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C22984"
-			(at 231.394 133.858 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6902,15 +6785,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C22775"
-			(at 52.07 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "331f7055-6d3a-43f6-92ef-17363c565556")
 		)
@@ -7186,15 +7060,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25804"
-			(at 231.394 142.748 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "b5775458-1ad6-47ca-89b3-bac0fe613bae")
 		)
@@ -7333,15 +7198,6 @@
 		)
 		(property "JLCPCB Part #" "C47742"
 			(at 154.94 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C47742"
-			(at 157.1341 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7489,15 +7345,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C20917"
-			(at 205.74 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "8e1a5f46-bd2b-4940-b8da-7d5a0514f580")
 		)
@@ -7561,15 +7408,6 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 101.6 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C14663"
-			(at 104.394 139.446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7800,15 +7638,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25804"
-			(at 188.214 130.048 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "3498417b-b78e-41a7-85ec-d32e4f0970b4")
 		)
@@ -7880,15 +7709,6 @@
 		)
 		(property "JLCPCB Part #" "C15849"
 			(at 124.46 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C15849"
-			(at 129.54 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
